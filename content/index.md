@@ -14,3 +14,9 @@ Visit my <a href="https://www.crusadezone.com/" target="_blank">Crusade Sports 
 
 
 I co-founded crusade to cultivate a community of undergraduate student-athletes who are passionate about researching innovation in the sports medicine field, as well as educating other student-athletes on taking their performance to the next level.
+
+# Projects
+• [[Infrared Sensor Proportional-Derivative Controller]]
+
+• [[Wearable Sensing Device]]
+ 
