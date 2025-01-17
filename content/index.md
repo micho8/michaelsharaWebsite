@@ -12,20 +12,22 @@ My resume can be found [here](Resume/Resume) - please reach me at [michaelshara
 # Crusade Sports Medicine
 Visit my <a href="https://www.crusadezone.com/" target="_blank">Crusade Sports Medicine, Non-Profit Organization & Research Journal</a> to see my work on researching sports medicine and developing a programs guide student-athlete’s to hit target performance goals based on our science-based meta analysis research.
 
-
 I co-founded crusade to cultivate a community of undergraduate student-athletes who are passionate about researching innovation in the sports medicine field, as well as educating other student-athletes on taking their performance to the next level.
 
+## My Crusade Journal Publications
+ • [[Zone Training for Endurance Athletes]]
 # Medical Observations
 Through my Orthopedic Surgery Shadowing, I have been shadowing him in the operating room and clinic. While shadowing in the Operating room, I prepare with thorough literature reviews on every surgical case to understand biomechanical principles, and biological structures for the respective cases. Before surgeries, I also observe preoperative imaging and nerve blocking techniques with the anesthesiologist.
 
 I have gathered notes of my [[Medical Observations]].
 
+# Projects & Research
+• [RESEARCH SUMMARY: Biocompatible, Biodegradable, and Electroactive Polyurethane-Urea Elastomers with Tunable Hydrophilicity for Skeletal Muscle Tissue Engineering](Tissue-Engineering.md)
 
-
-
-
-# Projects
 • [[Infrared Sensor Proportional-Derivative Controller]]
 
 • [[Wearable Sensing Device]]
- 
+
+# Athletics
+
+# Music
