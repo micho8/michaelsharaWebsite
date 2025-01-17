@@ -15,6 +15,15 @@ Visit my <a href="https://www.crusadezone.com/" target="_blank">Crusade Sports 
 
 I co-founded crusade to cultivate a community of undergraduate student-athletes who are passionate about researching innovation in the sports medicine field, as well as educating other student-athletes on taking their performance to the next level.
 
+# Medical Observations
+Through my internship with Dr. Evan Guerrero, Orthopedic Surgeon, I have been shadowing him in the operating room and clinic. While shadowing in the Operating room, I prepare with thorough literature reviews on every surgical case to understand biomechanical principles, and biological structures for the respective cases. Before surgeries, I also observe preoperative imaging and nerve blocking techniques with the anesthesiologist.
+
+I have gathered notes of my [[Medical Observations]].
+
+
+
+
+
 # Projects
 • [[Infrared Sensor Proportional-Derivative Controller]]
 
