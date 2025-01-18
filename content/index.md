@@ -17,9 +17,9 @@ I co-founded crusade to cultivate a community of undergraduate student-athletes 
 ## My Crusade Journal Publications
  • [[Zone Training for Endurance Athletes]]
 # Medical Observations
-Through my Orthopedic Surgery Shadowing, I have been shadowing him in the operating room and clinic. While shadowing in the Operating room, I prepare with thorough literature reviews on every surgical case to understand biomechanical principles, and biological structures for the respective cases. Before surgeries, I also observe preoperative imaging and nerve blocking techniques with the anesthesiologist.
+Through my Orthopedic Surgery Shadowing, I have been shadowing in the operating room and clinic. While shadowing in the Operating room, I prepare with thorough literature reviews on every surgical case to understand biomechanical principles, and biological structures for the respective cases. Before surgeries, I also observe preoperative imaging and nerve blocking techniques with the anesthesiologist.
 
-I have gathered notes of my [[Medical Observations]].
+I have gathered a list of my [[Medical Observations]].
 
 # Projects & Research
 
