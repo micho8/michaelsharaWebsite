@@ -22,7 +22,8 @@ Through my Orthopedic Surgery Shadowing, I have been shadowing him in the operat
 I have gathered notes of my [[Medical Observations]].
 
 # Projects & Research
-• [RESEARCH SUMMARY: Biocompatible, Biodegradable, and Electroactive Polyurethane-Urea Elastomers with Tunable Hydrophilicity for Skeletal Muscle Tissue Engineering](Tissue-Engineering.md)
+
+• [[Biocompatible, Biodegradable, and Electroactive Polyurethane-Urea Elastomers with Tunable Hydrophilicity for Skeletal Muscle Tissue Engineering]]
 
 • [[Infrared Sensor Proportional-Derivative Controller]]
 
