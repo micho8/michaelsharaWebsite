@@ -30,13 +30,18 @@ I have gathered a list of my [[Medical Observations]].
 • [[Wearable Sensing Device]]
 
 # Athletics
+## International Ice Hockey Federation (IIHF) - Team Lebanon Men's National Ice Hockey, Defenseman
+
+### Accomplishments
+
+
 ## British Columbian Hockey League (BCHL) - Merritt Centennials, Defenseman
 
 ### Accomplishments:
 • 60 game regular season schedule, daily on-ice and and off-ice training & conditioning
 
 • Awarded The Joe Tennant Most Dedicated Player Trophy
-## Highlights:
+### Highlights:
 ![[homeReferences/michaelSharaBCHL.mp4|michaelSharaBCHL]]
 
 # Music
