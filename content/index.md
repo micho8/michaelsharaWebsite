@@ -37,6 +37,6 @@ I have gathered a list of my [[Medical Observations]].
 
 • Awarded The Joe Tennant Most Dedicated Player Trophy
 ## Highlights:
-![[content/homeReferences/michaelSharaBCHL.mp4]]
+![[homeReferences/michaelSharaBCHL.mp4|michaelSharaBCHL]]
 
 # Music
