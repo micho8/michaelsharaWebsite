@@ -30,7 +30,9 @@ I have gathered a list of my [[Medical Observations]].
 - [[Wearable Sensing Device]]
 
 <h1 style="text-align: center;">Athletics</h1>
+
 ## International Ice Hockey Federation (IIHF) - Team Lebanon Men's National Ice Hockey, Defenseman (Captain)
+
 - Invited to join Team Lebanon IIHF: June 2023 Arab Cup in Kuwait and July 2023 Int’l Games vs Greece in Montreal.
 - Gold Medal champions of the 2023 Arab Cup.
 - Voted Captain by Lebanese Ice Hockey Federation
