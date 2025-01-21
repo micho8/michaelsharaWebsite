@@ -23,11 +23,9 @@ I have gathered a list of my [[Medical Observations]].
 
 <h1 style="text-align: center;">Projects & Research</h1>
 
-- [[Biocompatible, Biodegradable, and Electroactive Polyurethane-Urea Elastomers with Tunable Hydrophilicity for Skeletal Muscle Tissue Engineering]]
-
 - [[Infrared Sensor Proportional-Derivative Controller]]
-
 - [[Wearable Sensing Device]]
+- [[Biocompatible, Biodegradable, and Electroactive Polyurethane-Urea Elastomers with Tunable Hydrophilicity for Skeletal Muscle Tissue Engineering]]
 
 <h1 style="text-align: center;">Athletics</h1>
 
