@@ -9,14 +9,15 @@ Welcome to my personal volt where I publish progress of my projects and learning
 
 My resume can be found [here](Resume/Resume) - please reach me at [michaelshara@g.ucla.edu](mailto:michaelshara@g.ucla.edu) if you have any questions! 
 <h1 style="text-align: center;">Crusade Sports Medicine</h1>
-Visit my <a href="https://www.crusadezone.com/" target="_blank">Crusade Sports Medicine, Non-Profit Organization & Research Journal</a> to see my work on researching sports medicine and developing a programs guide student-athlete’s to hit target performance goals based on our science-based meta analysis research.
-
-I co-founded crusade to cultivate a community of undergraduate student-athletes who are passionate about researching innovation in the sports medicine field, as well as educating other student-athletes on taking their performance to the next level.
 <div style="text-align: center;">
     <img src="./homeReferences/crusadelogo.png" alt="Image 1" width="300" style="display: inline-block; margin: 0 10px;">
     <img src="./homeReferences/crusade360.png" alt="Image 2" width="440" style="display: inline-block; margin: 0 10px;">
 </div>
 
+Visit my <a href="https://www.crusadezone.com/" target="_blank">Crusade Sports Medicine, Non-Profit Organization & Research Journal</a> to see my work on researching sports medicine and developing a programs guide student-athlete’s to hit target performance goals based on our science-based meta analysis research.
+
+I co-founded crusade to cultivate a community of undergraduate student-athletes who are passionate about researching innovation in the sports medicine field, as well as educating other student-athletes on taking their performance to the next level.
+<div style="text-align:center;"> <img src="./homeReferences/crusadeEd.png" alt="shara" width="700"> </div>
 ## My Crusade Journal Publications
  - [[Zone Training for Endurance Athletes]]
 
