@@ -18,6 +18,7 @@ Visit my <a href="https://www.crusadezone.com/" target="_blank">Crusade Sports 
 
 I co-founded crusade to cultivate a community of undergraduate student-athletes who are passionate about researching innovation in the sports medicine field, as well as educating other student-athletes on taking their performance to the next level.
 <div style="text-align:center;"> <img src="./homeReferences/crusadeEd.png" alt="shara" width="1000"> </div>
+
 ## My Crusade Journal Publications
  - [[Zone Training for Endurance Athletes]]
 
