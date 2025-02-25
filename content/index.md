@@ -53,6 +53,28 @@ I have gathered a list of my [[Medical Observations]].
     <img src="./homeReferences/athlete.png" alt="Image 1" width="290" style="display: inline-block; margin: 0 10px;">
     <img src="./homeReferences/bchl.png" alt="Image 2" width="390" style="display: inline-block; margin: 0 10px;">
 </div>
+<div style="text-align: center; font-size: 24px; background-color: #161618; color: #c43737; padding: 10px; border-radius: 5px; margin-top: 20px; font-weight: 900;"> 
+    <strong>READ MERRITT CENTENNIALS ARTICLE ABOUT MY SIGNING 
+        <a href="https://www.merrittcentennials.ca/centennials-sign-shara-for-the-2022-23-season" target="_blank" 
+           style="color: #FFFDD0; text-decoration: underline; font-weight: 900;">HERE</a> 
+    </strong> 
+</div>
+
+
+<div style="text-align: center;"> 
+    <img src="./homeReferences/merrittSigning.png" alt="shara" width="500" 
+         style="border: 5px solid #555555; border-radius: 10px; padding: 5px; background-color: #555555;"> 
+</div>
+
+<div style="font-size: 18px; border: 3px solid #555555; padding: 15px; border-radius: 10px; text-align: center; max-width: 600px; margin: auto; background-color: #555555; color: #000000;"> 
+    <strong>QUOTE FROM THIS ARTICLE:</strong> 
+    <p> 
+        Shara is described as an aggressive and detailed Defenceman that plays hard every single shift, he has the skating ability to push the play offensively and can log big minutes due to being in incredible physical condition. The Cents’ staff believe Shara will be a leader on and off the ice immediately and will be relied on in key situations. 
+    </p> 
+    <p style="font-style: italic;"> 
+        “I am looking forward to playing for the Cents – I love the Merritt community and culture. It’s a great environment for working hard alongside my teammates and coaches, and I’m excited to begin the season.” – Michael Shara. 
+    </p> 
+</div>
 
 ### BCHL Season Highlights:
 ![[homeReferences/michaelSharaBCHL.mp4|michaelSharaBCHL]]
