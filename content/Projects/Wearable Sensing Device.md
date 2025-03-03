@@ -42,7 +42,6 @@ The wearable device consists of the following key components:
 - Wireless Module (Bluetooth/Wi-Fi): Supports Bluetooth and/or Wi-Fi connectivity.
     
 - RF Switch: Enables frequency sharing for dual connectivity.
-    
 
 ### 2.2 Power Management
 
@@ -99,7 +98,6 @@ Since Bluetooth and Wi-Fi operate on the same frequency band (2.4 GHz), careful 
 - Pre-Certified Modules: Ensures compliance with regulatory standards.
     
 - RF Switches: Allows the device to share a single antenna for multiple wireless protocols, minimizing device size.
-    
 
 ## 5. Mechanical Design
 
@@ -110,7 +108,6 @@ The wearable device's housing is designed to be:
 - Small and lightweight for user comfort.
     
 - Ergonomically optimized for secure placement on the body.
-    
 
 ## 6. Project Milestones
 

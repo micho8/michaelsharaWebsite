@@ -7,7 +7,10 @@ Hello! My name is Michael Shara - I am an undergraduate Electrical Engineering s
 
 Welcome to my personal volt where I publish progress of my projects and learnings that are related to my goals. 
 
-My resume can be found [here](Resume/Resume) - please reach me at [michaelshara@g.ucla.edu](mailto:michaelshara@g.ucla.edu) if you have any questions! 
+<p style="font-size: 20px;">
+    Please see my attached <a href="Resume/Resume" target="_blank">RESUME</a> - you can reach me at  
+    <a href="mailto:michaelshara@g.ucla.edu">michaelshara@g.ucla.edu</a> if you have any questions!
+</p>
 <h1 style="text-align: center;">Crusade Sports Medicine</h1>
 <div style="text-align: center;">
     <img src="./homeReferences/crusadelogo.png" alt="Image 1" width="300" style="display: inline-block; margin: 0 10px;">
