@@ -219,17 +219,16 @@ _(You might sometimes see “tenosynovectomy” if the cyst arises within an inf
     
 - **12/17/24**: (Notes not detailing a specific operation)
 
-
-
 <h1 style="text-align: center;">Reflections & Personal Insights</h1>
+
 ## Doctor-Patient Relationship
 ## Family & Patient Support
 
 ## Return-to-Sport Considerations
 
 ## Mental Health & Resilience
-
 <h1 style="text-align: center;">Research & Literature Reviews</h1>
+
 ## Procedure-Specific Studies
 
 ## Sports Medicine & Biomechanics
