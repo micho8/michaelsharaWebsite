@@ -11,6 +11,17 @@ Welcome to my personal volt where I publish progress of my projects and learning
     Please see my attached <a href="Resume/Resume" target="_blank">RESUME</a> - you can reach me at  
     <a href="mailto:michaelshara@g.ucla.edu">michaelshara@g.ucla.edu</a> if you have any questions!
 </p>
+
+<h1 style="text-align: center;">Interconnected and Integrated Bioelectronics Lab (I²BL) @ UCLA</h1>
+## Ferrobtic Group for Accessible and Adaptable Automated Viral Testing
+<div style="text-align:center;"> <img src="./homeReferences/i2bl.png" alt="shara" width="700"> </div>
+Our mission is to realize personalized medicine for everyone. We create new bioelectronics to: 
+1.  engineer materials with specialized properties (e.g., soft, strain-insensitive, stimuli-responsive)
+2.  develop micro/nanoscale actuation and sensing methodologies to control, isolate, and sense a spectrum of biomarkers (e.g., electrochemical sensors to measure metabolites, electrolytes, nutrients, hormones, and pharmaceuticals)
+3.  fabricate microfluidic devices to interface with biological entities such as biofluid and tissue. 
+
+In our approach, we emphasize solutions that are simple, low-cost, and scalable, all while providing new functionalities to bypass performance boundaries of conventional biomedical tools. By integrating these solutions into autonomous bioanalytical platforms and collaborating closely with prominent clinical experts and medical centers, we translate our technologies in clinical applications.
+
 <h1 style="text-align: center;">Crusade Sports Medicine</h1>
 <div style="text-align: center;">
     <img src="./homeReferences/crusadelogo.png" alt="Image 1" width="300" style="display: inline-block; margin: 0 10px;">
@@ -28,7 +39,7 @@ I co-founded crusade to cultivate a community of undergraduate student-athletes 
 <h1 style="text-align: center;">Medical Observations</h1>
 Through my Orthopedic Surgery Shadowing, I have been shadowing in the operating room and clinic. While shadowing in the Operating room, I prepare with thorough literature reviews on every surgical case to understand biomechanical principles, and biological structures for the respective cases. Before surgeries, I also observe preoperative imaging and nerve blocking techniques with the anesthesiologist.
 
-I have gathered a list of my [[Medical Observations]].
+You can view my [[Medical Observations and Reflections]]. [[War Gaming]]
 
 <h1 style="text-align: center;">Projects & Research</h1>
 
@@ -37,7 +48,6 @@ I have gathered a list of my [[Medical Observations]].
 - [[Biocompatible, Biodegradable, and Electroactive Polyurethane-Urea Elastomers with Tunable Hydrophilicity for Skeletal Muscle Tissue Engineering]]
 
 <h1 style="text-align: center;">Athletics</h1>
-
 ## International Ice Hockey Federation (IIHF) - Team Lebanon Men's National Ice Hockey, Defenseman (Captain)
 
 - Invited to join Team Lebanon IIHF: June 2023 Arab Cup in Kuwait and July 2023 Int’l Games vs Greece in Montreal.
@@ -87,3 +97,6 @@ I have gathered a list of my [[Medical Observations]].
 
 ## Sound 404 Classic Rock Band
 <div style="text-align:center;"> <img src="./homeReferences/sound404.png" alt="shara" width="700"> </div>
+
+<h1 style="text-align: center;">Surfing</h1>
+<div style="text-align:center;"> <img src="./homeReferences/surfing.png" alt="shara" width="700"> </div>
