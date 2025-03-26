@@ -39,7 +39,7 @@ I co-founded crusade to cultivate a community of undergraduate student-athletes 
 <h1 style="text-align: center;">Medical Observations</h1>
 Through my Orthopedic Surgery Shadowing, I have been shadowing in the operating room and clinic. While shadowing in the Operating room, I prepare with thorough literature reviews on every surgical case to understand biomechanical principles, and biological structures for the respective cases. Before surgeries, I also observe preoperative imaging and nerve blocking techniques with the anesthesiologist.
 
-You can view my [[Medical Observations and Reflections]]. [[War Gaming]]
+You can view my [[Medical Observations and Reflections]].
 
 <h1 style="text-align: center;">Projects & Research</h1>
 
