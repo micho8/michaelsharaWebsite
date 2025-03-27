@@ -1,7 +1,6 @@
 ---
-title: Welcome!
+title: Home
 ---
- 
 <div style="text-align:center;"> <img src="./homeReferences/sharaImage.png" alt="shara" width="500"> </div>
 Hello! My name is Michael Shara - I am an undergraduate Electrical Engineering student and researcher interested in developing medical devices and treatments that provide innovative surgical, therapeutic, and diagnostic techniques. I plan to use Electrical Engineering to advance patient care through collaborative research and hands-on clinical experience. I am actively seeking opportunities to learn, contribute, and build skills at the intersection of engineering and medicine, with a strong focus on gaining clinical experience to support my goal of applying to medical school.
 
@@ -39,7 +38,7 @@ I co-founded crusade to cultivate a community of undergraduate student-athletes 
 <h1 style="text-align: center;">Medical Observations</h1>
 Through my Orthopedic Surgery Shadowing, I have been shadowing in the operating room and clinic. While shadowing in the Operating room, I prepare with thorough literature reviews on every surgical case to understand biomechanical principles, and biological structures for the respective cases. Before surgeries, I also observe preoperative imaging and nerve blocking techniques with the anesthesiologist.
 
-You can view my [[Medical Observations and Reflections]].
+You can view my [[Medical Observations and Research]].
 
 <h1 style="text-align: center;">Projects & Research</h1>
 
@@ -48,6 +47,7 @@ You can view my [[Medical Observations and Reflections]].
 - [[Biocompatible, Biodegradable, and Electroactive Polyurethane-Urea Elastomers with Tunable Hydrophilicity for Skeletal Muscle Tissue Engineering]]
 
 <h1 style="text-align: center;">Athletics</h1>
+
 ## International Ice Hockey Federation (IIHF) - Team Lebanon Men's National Ice Hockey, Defenseman (Captain)
 
 - Invited to join Team Lebanon IIHF: June 2023 Arab Cup in Kuwait and July 2023 Int’l Games vs Greece in Montreal.

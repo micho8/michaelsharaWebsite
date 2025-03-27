@@ -7,7 +7,12 @@ From my studies, my favorite word became "topology". It describes how individual
 Throughout my studies, lab research, and personal engineering projects, I began visualizing a shift in my perspective to the human body. **Neurons** (nerve cells) as the “circuit elements,” and **synapses** (the connections between neurons) as the “links” or “branches” in a network. This was the topology I wanted to study. Like Dr. Guerrero performing a complex surgery on the network of sensitive nerves with complex signals, my goal is to not only be able to help patients recover optimally, but to be in the center of applying and researching the newest technology to improve patient outcomes and advance the medical community. 
 <h1 style="text-align: center;">Goals and Progress</h1>
 
-# TOP 5 GOALS
+# TOP 3 GOALS
+1. Nutrition, Condition, Meditation 
+
+2. Grades (10 weeks, 3 courses, each course with projects every week, midterms every 3 weeks, then finals 10th week)
+
+3. ECs: Bio-EE Research, Crusade Student-Athlete Journal of Sports Medicine
 
 # Quarter War Gaming (Courses, Grades, and Priorities)
 
@@ -17,65 +22,43 @@ Throughout my studies, lab research, and personal engineering projects, I began 
 
 # By Date
 - **12/21/23**
-    
-    - Clavicle Fracture ORIF
-        
+	- Clavicle Fracture ORIF
 - **01/03/24**
     
     - Right Carpal Tunnel Release
-        
     - Left Distal Radius Fracture Malunion Correction
-        
     - Right Thumb Metacarpal Fracture ORIF vs. CRPP
-        
     - Left Distal Radius Fracture ORIF
-        
     - Right Wrist Hardware Removal + A/P Interosseous Neurectomy
-        
     - Left Revision Carpal Tunnel Release + Hypothenar Fat Pad Flap + Cubital Tunnel Release
-        
 - **03/28/24**
-    
     - Arthroscopic Meniscus Surgery
-        
     - Posterior Interosseous Nerve (PIN) Release
-        
 - **05/17/24**
-    
-    - _(No procedures—return-to-sport & outcomes focus)_
-        
+	- _(No procedures—return-to-sport & outcomes focus)_ 
 - **06/01/24**
     
     - _(No procedures—reflections on patient-family dynamics)_
         
 - **09/12/24**
-    
-    - Dorsal Wrist Ganglion Excision
-        
+	- Dorsal Wrist Ganglion Excision 
     - Trigger Finger Release
-        
     - Cubital Tunnel Release
-        
     - Rotator Cuff Repair (Arthroscopic)
-        
     - Distal Radius Fracture ORIF
-        
 - **09/17/24**
     
     - Right Wrist Extensor Tenosynovectomy (Ganglion Cyst)
-        
     - Right Proximal Humerus Fracture ORIF
-        
     - Right Clavicle Fracture ORIF
-        
     - Left Trapeziectomy + Suspensionplasty
-        
     - Left Lateral Malleolus Fracture ORIF
-        
 - **12/17/24**
-    
     - _(No procedures)_
-        
+- **03/26/25**
+    - Left lateral malleolus fracture open reduction internal fixation / possible syndesmosis open reduction internal fixation
+    - Left trimallelor ankle fracture open reduction internal fixation, cann screws medline
+    - Left ring finger articular distal phalanx fracture open reduction internal fixation / left ring finger flexor digitorium profundus repair
 # By Procedure (reference or link to date)
 
 ## I. Shoulder / Upper Arm
