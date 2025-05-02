@@ -1,8 +1,12 @@
 ---
 title: Home
 ---
+
+[[Clavicle Fracture ORIF]]
+
 <div style="text-align:center;"> <img src="./homeReferences/sharaImage.png" alt="shara" width="500"> </div>
-Hello! My name is Michael Shara - I am an undergraduate Electrical Engineering student and researcher interested in developing medical devices and treatments that provide innovative surgical, therapeutic, and diagnostic techniques. I plan to use Electrical Engineering to advance patient care through collaborative research and hands-on clinical experience. I am actively seeking opportunities to learn, contribute, and build skills at the intersection of engineering and medicine, with a strong focus on gaining clinical experience to support my goal of applying to medical school.
+
+Hello! My name is Michael Shara - I am an Electrical Engineering student and researcher at UCLA interested in pursuing an MD in Surgery while continuing my involvement in researching new technologies in the medical field. My professional interests include developing accessible platforms for rapid and automated diagnostic testing, as well as surgical solutions to optimize patient recovery and performance in the field of sports medicine. I plan to use my experience is Electrical Engineering in relation to biological sciences, along with my personal experiences in fast pace scientific research, athletic perforce, and community settings, to remold how patients  evaluate their health and performance in their daily lives - especially high performance athletes where the ultimate goal is to strategically minimize injury and optimize recovery solutions.
 
 Welcome to my personal volt where I publish progress of my projects and learnings that are related to my goals. 
 
@@ -15,11 +19,13 @@ Welcome to my personal volt where I publish progress of my projects and learning
 ## Ferrobtic Group for Accessible and Adaptable Automated Viral Testing
 <div style="text-align:center;"> <img src="./homeReferences/i2bl.png" alt="shara" width="700"> </div>
 Our mission is to realize personalized medicine for everyone. We create new bioelectronics to: 
-1.  engineer materials with specialized properties (e.g., soft, strain-insensitive, stimuli-responsive)
-2.  develop micro/nanoscale actuation and sensing methodologies to control, isolate, and sense a spectrum of biomarkers (e.g., electrochemical sensors to measure metabolites, electrolytes, nutrients, hormones, and pharmaceuticals)
-3.  fabricate microfluidic devices to interface with biological entities such as biofluid and tissue. 
+1.  Engineer materials with specialized properties (e.g., soft, strain-insensitive, stimuli-responsive).
+2.  Develop micro/nanoscale actuation and sensing methodologies to control, isolate, and sense a spectrum of biomarkers (e.g., electrochemical sensors to measure metabolites, electrolytes, nutrients, hormones, and pharmaceuticals).
+3.  Fabricate and optimize microfluidic PCB-based platform to interface with biological entities such as biofluid and tissue. 
 
-In our approach, we emphasize solutions that are simple, low-cost, and scalable, all while providing new functionalities to bypass performance boundaries of conventional biomedical tools. By integrating these solutions into autonomous bioanalytical platforms and collaborating closely with prominent clinical experts and medical centers, we translate our technologies in clinical applications.
+In our approach, we emphasize solutions that are simple, low-cost, and scalable, all while providing new functionalities to bypass performance boundaries of conventional biomedical tools. 
+
+By integrating these solutions into autonomous bioanalytical platforms and collaborating closely with prominent clinical experts and medical centers, we hope to translate our technologies in clinical applications.
 
 <h1 style="text-align: center;">Crusade Sports Medicine</h1>
 <div style="text-align: center;">
@@ -31,6 +37,10 @@ Visit my <a href="https://www.crusadezone.com/" target="_blank">Crusade Sports 
 
 I co-founded crusade to cultivate a community of undergraduate student-athletes who are passionate about researching innovation in the sports medicine field, as well as educating other student-athletes on taking their performance to the next level.
 <div style="text-align:center;"> <img src="./homeReferences/crusadeEd.png" alt="shara" width="1000"> </div>
+
+## My Team
+
+<div style="text-align:center;"> <img src="./homeReferences/crusadeteammeeting.jpg" alt="shara" width="300"> </div>
 
 ## My Crusade Journal Publications
  - [[Zone Training for Endurance Athletes]]
@@ -74,10 +84,17 @@ You can view my [[Medical Observations and Research]].
 </div>
 
 
-<div style="text-align: center;"> 
-    <img src="./homeReferences/merrittSigning.png" alt="shara" width="500" 
-         style="border: 5px solid #555555; border-radius: 10px; padding: 5px; background-color: #555555;"> 
+<div style="text-align: center;">
+  <a href="https://www.merrittcentennials.ca/centennials-sign-shara-for-the-2022-23-season" target="_blank" rel="noopener noreferrer">
+    <img
+      src="./homeReferences/merrittSigning.png"
+      alt="shara"
+      width="500"
+      style="border: 5px solid #555555; border-radius: 10px; padding: 5px; background-color: #555555;"
+    >
+  </a>
 </div>
+
 
 <div style="font-size: 18px; border: 3px solid #555555; padding: 15px; border-radius: 10px; text-align: center; max-width: 600px; margin: auto; background-color: #555555; color: #000000;"> 
     <strong>QUOTE FROM THIS ARTICLE:</strong> 

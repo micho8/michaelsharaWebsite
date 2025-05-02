@@ -81,7 +81,7 @@
 <body>
   <div class="notes">
     <h1>Shoulder / Upper Arm</h1>
-    <h2>I. Clavicle Fracture ORIF</h2>
+    <h2>I. [[Clavicle Fracture ORIF]]Clavicle Fracture ORIF</h2>
     <h2>II. Right Proximal Humerus Fracture ORIF</h2>
     <h2>III. Rotator Cuff Repair (Arthroscopic)</h2>
     <hr>
