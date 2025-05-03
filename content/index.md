@@ -2,8 +2,6 @@
 title: Home
 ---
 
-[[Clavicle Fracture ORIF]]
-
 <div style="text-align:center;"> <img src="./homeReferences/sharaImage.png" alt="shara" width="500"> </div>
 
 Hello! My name is Michael Shara - I am an Electrical Engineering student and researcher at UCLA interested in pursuing an MD in Surgery while continuing my involvement in researching new technologies in the medical field. My professional interests include developing accessible platforms for rapid and automated diagnostic testing, as well as surgical solutions to optimize patient recovery and performance in the field of sports medicine. I plan to use my experience is Electrical Engineering in relation to biological sciences, along with my personal experiences in fast pace scientific research, athletic perforce, and community settings, to remold how patients  evaluate their health and performance in their daily lives - especially high performance athletes where the ultimate goal is to strategically minimize injury and optimize recovery solutions.
@@ -40,7 +38,7 @@ I co-founded crusade to cultivate a community of undergraduate student-athletes 
 
 ## My Team
 
-<div style="text-align:center;"> <img src="./homeReferences/crusadeteammeeting.jpg" alt="shara" width="300"> </div>
+<div style="text-align:center;"> <img src="./homeReferences/crusademeeting.png" alt="shara" width="300"> </div>
 
 ## My Crusade Journal Publications
  - [[Zone Training for Endurance Athletes]]
@@ -94,6 +92,7 @@ You can view my [[Medical Observations and Research]].
     >
   </a>
 </div>
+
 
 
 <div style="font-size: 18px; border: 3px solid #555555; padding: 15px; border-radius: 10px; text-align: center; max-width: 600px; margin: auto; background-color: #555555; color: #000000;"> 
