@@ -5,7 +5,7 @@ title: Crusade Journal of Sports Medicine for Student Athletes
 # Crusade Journal of Sports Medicine for Student Athletes
 
 <div style="text-align: center;">
-    <img src="./homeReferences/crusadejournalLogo.png" alt="Crusade Journal Logo" width="300">
+    <img src="./homeReferences/crusadelogo.png" alt="Crusade Journal Logo" width="300">
 </div>
 
 ## About the Journal

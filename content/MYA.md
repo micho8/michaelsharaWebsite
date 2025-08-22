@@ -5,7 +5,7 @@ title: Maronite Youth Adults (MYA)
 # Maronite Youth Adults (MYA)
 
 <div style="text-align: center;">
-    <img src="./homeReferences/SJM.png" alt="MYA Logo" width="300">
+    <img src="./homeReferences/athlete.png" alt="MYA Logo" width="300">
 </div>
 
 ## About MYA
